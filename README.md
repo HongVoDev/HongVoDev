@@ -40,7 +40,7 @@ Check out some of my projects (code on GitHub)!
 
 ## Connect with me! 🌐
 
-* [My LinkedIn](www.linkedin.com/in/hongvodev)
+* [My LinkedIn](https://linkedin.com/in/hongvodev)
 * Or email me at hongvo.dev@gmail.com
 
 ## Ending notes
