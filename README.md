@@ -3,8 +3,8 @@
 ## What I Do
 
 * **Build things** Web apps, APIs, software that brings values 💻
-* **Figuring out why and how:** I love understanding the "why" behind everything, from requirements to architectural decisions.
-* **Collab and expand:** Learning is usually most effective when we work with other people and so collaborating is a huge part of what I do.
+* **Figuring out why and how:** I want to understand the "why" behind everything, from requirements to architectural decisions.
+* **Collab and expand:** Learning is usually most effective when we work with other people and collaborating.
 
 ## Skills 🧰
 
