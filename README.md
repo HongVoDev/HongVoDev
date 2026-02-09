@@ -14,8 +14,6 @@
 * **Cloud:** AWS, Azure, Google Cloud Platform
 * **Tools:** Git, Maven, Jenkins, ADO, REST, HTML, CSS
 * **Methodologies:** Agile Scrum
-* 
-Check out my repositories
 
 ## Connect with me:
 * [My LinkedIn](https://linkedin.com/in/hongvodev)
