@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Hong! ✨
+# Hi there, I'm Hong!
 
 ## What I Do
 
