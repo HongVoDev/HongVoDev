@@ -5,7 +5,7 @@ I like to build things, web apps, APIs, software.
 Experience: 
 * **Languages:** Java, JavaScript, Python
 * **Frameworks/Libraries:** Spring Boot, Angular, React
-* **Databases:** SQL, Elasticsearch
+* **Databases:** Elasticsearch, MSQL 
 * **Cloud:** AWS, Azure, Google Cloud Platform
   
 Connect:
