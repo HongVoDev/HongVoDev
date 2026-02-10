@@ -1,11 +1,8 @@
-Hi there, I'm Hong!
+Hi there, I'm Hong
 
-What I Do
+I like to build things, web apps, APIs, software.
 
-* **Build things** Web apps, APIs, software.
-
-Skills 
-
+Experience: 
 * **Languages:** Java, TypeScript, Python
 * **Frameworks/Libraries:** Spring Boot, Angular, Hibernate, JPA, Pygame, React
 * **Databases:** MySQL
@@ -17,4 +14,4 @@ Connect:
 * [My LinkedIn](https://linkedin.com/in/hongvodev)
 * Email: hongvo.dev@gmail.com
 
-Thanks for stopping by! 👋 Have fun coding! 
+Thanks for stopping by. 👋 Have fun coding! 
