@@ -3,13 +3,11 @@ Hi there, I'm Hong
 I like to build things, web apps, APIs, software.
 
 Experience: 
-* **Languages:** Java, TypeScript, Python
-* **Frameworks/Libraries:** Spring Boot, Angular, Hibernate, JPA, Pygame, React
-* **Databases:** MySQL
+* **Languages:** Java, JavaScript, Python
+* **Frameworks/Libraries:** Spring Boot, Angular, React
+* **Databases:** SQL, Elasticsearch
 * **Cloud:** AWS, Azure, Google Cloud Platform
-* **Tools:** Git, Maven, Jenkins, ADO, REST, HTML, CSS
-* **Methodologies:** Agile Scrum
-
+  
 Connect:
 * [My LinkedIn](https://linkedin.com/in/hongvodev)
 * Email: hongvo.dev@gmail.com
