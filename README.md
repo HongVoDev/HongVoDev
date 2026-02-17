@@ -1,9 +1,7 @@
-Hi there, I'm Hong
-
-I like to build things, web apps, APIs, software.
+Hi there, I'm Hong. I like to build things, web apps, APIs, software.
   
 Connect:
 * [My LinkedIn](https://linkedin.com/in/hongvodev)
 * Email: hongvo.dev@gmail.com
 
-Thanks for stopping by. 👋 Have fun coding! 
+👋 Have fun coding! 
