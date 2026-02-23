@@ -1,6 +1,6 @@
 Hi there, I'm Hong. I like to build things, web apps, APIs, software. 
 
-Here's a Lord of the Ring style website to learn more about me: https://voworlds.com (that I made from scratch, from 3D modeling to font-end reactjs)
+I made a fun website with Lord of The Ring 3D models: https://voworlds.com (using blender and reactjs)
 
 Connect with me through:
 * [My LinkedIn](https://linkedin.com/in/hongvodev)
